@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taqi Javed</h1>
 <h3 align="center">A passionate AI/ML developer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taqi12&label=Profile%20views&color=0e75b6&style=flat" alt="taqi12" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taqi12" alt="taqi12" /></a> </p>
 
 - 🔭 I’m currently working on **AI/ML**
